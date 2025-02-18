@@ -64,6 +64,11 @@ Connect with external services (e.g., weather APIs, CRM systems) for real-time d
 
 Store conversation history and user preferences for a personalized experience.
 
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/eee0b143-ddf2-491e-8579-ae72594ee5e1)
+
+
 Testing and Deployment
 
 Evaluate chatbot accuracy using NLP metrics like BLEU and ROUGE.
